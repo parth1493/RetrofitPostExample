@@ -1,4 +1,4 @@
-package com.parth.retrofitpostexample;
+package com.parth.retrofitpostexample.model;
 
 public class User {
 
